@@ -1,0 +1,15 @@
+.texto{
+    margin-top: 40vh;
+}
+.botao_clique{
+width: 15vh;
+height: 5vh;
+margin-bottom: -6;
+}
+body {
+    background-image: url("../Img/fundo2.jpg");
+    background-size: cover;      /* cobre a tela inteira */
+    background-position: center; /* centraliza */
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
